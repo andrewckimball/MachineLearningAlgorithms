@@ -1,4 +1,4 @@
-# MachineLearningAlgorithms
+# Machine Learning Algorithms
 These are 6 machine learning algorithms that I implemented from scratch using Python in Jupyter Notebooks. 
 
 These algorithms include the Perceptron, MultiLayer Perceptron (Nueral Network), Decision Tree, K Nearest Neighter, K Means Cluster, and Hierarchical Agglomerative Clustering algorithm.
